@@ -11,7 +11,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWhlZG8waTMzbGJ0bXk3dHJza3U0ZWgwc2Y5dncyaWJ0N2t1MmI3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oqPPDtI6vb6jABNIuM/giphy.gif"  />
+<img data-importer="image" align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWhlZG8waTMzbGJ0bXk3dHJza3U0ZWgwc2Y5dncyaWJ0N2t1MmI3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oqPPDtI6vb6jABNIuM/giphy.gif"  />
 
 ###
 
