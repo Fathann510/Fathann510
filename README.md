@@ -1,12 +1,13 @@
-<h1 data-importer="text" align="left">Hi! I'm Fathan, Informatics Engineering Student at State Polytechnic of Malang!</h1>
+<h1 data-importer="text" align="left">Hi! I'm Fathan, Informatics Engineering Student at State Polytechnic of Malang.</h1>
 
 ###
 
 <div data-importer="stats" align="center">
 
-![Fathann510's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fathann510&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://ghstats.dev/api/card?username=Fathann510&theme=tokyonight)
 
-  <img src="https://raw.githubusercontent.com/Fathann510/Fathann510/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+
+[![](https://ghstats.dev/api/langs?username=Fathann510&theme=tokyonight&layout=grid)](https://github.com/rowkavdev/GitHub-profile-stats)
 </div>
 
 ###
